@@ -9,10 +9,7 @@ A modern food delivery mobile app home screen designed for local restaurants in 
 - Used Figma for UI design and Clay Mockup plugin for 3D iPhone presentation
 
 ## 🖼️ Screenshots
-![Home Screen](link-to-your-image)
-
-## 🔗 Live Prototype
-[View Figma Prototype](https://bit.ly/4jAjuyl)
+(https://github.com/malsha108/FoodHub-UI-UX/blob/main/Untitled-edited.jpg)
 
 ## 👤 Author
 Malsha Pathirana
