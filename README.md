@@ -10,6 +10,7 @@ A modern food delivery mobile app home screen designed for local restaurants in 
 
 ## 🖼️ Screenshots
 (https://github.com/malsha108/FoodHub-UI-UX/blob/main/Untitled-edited.jpg)
+https://github.com/malsha108/FoodHub-UI-UX/blob/main/Untitled.png
 
 ## 👤 Author
 Malsha Pathirana
